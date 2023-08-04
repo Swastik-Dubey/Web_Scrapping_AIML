@@ -1,37 +1,22 @@
 # Web_Scrapping_AIML
 
 #PROBLEM 1
-# IMDb Filmography Web Scraping
+# IMDb Filmography Web Scraping Script
 
-This is a Python web scraping script that allows you to get the filmography of any film actor from IMDb. The script takes an input of an actor's name and provides the output of their filmography in descending order of release years.
+This is a Python script that allows you to retrieve the filmography of any film actor from IMDb in descending order. Simply provide the name of the actor as input, and the script will fetch and display the films done by the actor.
 
-## How to Use
+## Requirements
 
-1. Install Required Libraries:
-   - Make sure you have Python installed on your system.
-   - Install the necessary libraries by running the following command:
-     ```
-     pip install requests beautifulsoup4
-     ```
+- Python 3.x
+- Required Python packages: `requests` and `beautifulsoup4`
 
-2. Download the Script:
-   - Download the `imdb_filmography.py` file from this repository.
+## Installation
 
-3. Run the Script:
-   - Open your terminal (or command prompt) and navigate to the directory where you saved the `imdb_filmography.py` file.
-   - Run the script using the following command:
-     ```
-     python imdb_filmography.py
-     ```
+1. Make sure you have Python 3.x installed on your system. If not, you can download it from the official website: [Python Downloads](https://www.python.org/downloads/)
 
-4. Enter Actor's Name:
-   - When prompted, enter the name of the actor you want to get the filmography for (e.g., "Leonardo DiCaprio").
-   - Note: Ensure that the actor's name is correctly spelled to get accurate results.
+2. Install the required Python packages by running the following command in your terminal or command prompt:
 
-5. View the Filmography:
-   - The script will fetch the actor's filmography from IMDb and display it in descending order of release years.
+   ```bash
+   pip install requests beautifulsoup4
 
-6. Example Output:
-   -Enter the name of the actor: Leonardo DiCaprio
-    
 
