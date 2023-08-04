@@ -32,3 +32,12 @@ This is a Python web scraping script that allows you to get the filmography of a
    - The script will fetch the actor's filmography from IMDb and display it in descending order of release years.
 
 6. Example Output:
+   -Enter the name of the actor: Leonardo DiCaprio
+    Films done by Leonardo DiCaprio in descending order:
+    1.Killers of the Flower Moon-2023
+    2.Don't Look Up-2021
+    3.Once Upon a Time... In Hollywood-2019
+    4.Lil Dicky: Earth-2019
+    5.The Revenant-2015
+    6.The Audition-2015
+
