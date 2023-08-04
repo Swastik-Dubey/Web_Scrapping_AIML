@@ -83,7 +83,68 @@ Films done by Leonardo DiCaprio in descending order:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
+
+#PROBLEM 2
+
+# Exoplanet Classification using Machine Learning
+
+![Exoplanet Image](exoplanet.jpg)
+
+## Overview
+
+This project aims to classify exoplanets into different categories (Candidate/False Positive/Confirmed) using various machine learning algorithms. The dataset used for this project contains features extracted from the Kepler Space Telescope.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+To use this project, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your_username/exoplanet-classification.git
+cd exoplanet-classification
+Install the required libraries:
+bash
+Copy code
+pip install -r requirements.txt
+Usage
+To train and test the classification models, run the Jupyter notebook Exoplanet_Classification.ipynb. This notebook contains all the code for data preprocessing, feature selection, model training, and evaluation.
+
+Features
+Data Preprocessing: The dataset is cleaned, and missing values are handled. Outliers are detected and treated accordingly. Features are scaled for better model performance.
+
+Feature Selection: Important features are selected using feature importances from various algorithms, and irrelevant features are excluded from the model.
+
+Model Training: The project uses popular machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosting, SVM, and XGBoost to classify exoplanets.
+
+Hyperparameter Tuning: GridSearchCV is utilized to find the best hyperparameters for each algorithm, maximizing their performance.
+
+Technologies Used
+Python
+Jupyter Notebook
+Scikit-learn
+Pandas
+NumPy
+Contributing
+Contributions are welcome! If you find any issues or have improvements, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For any questions or inquiries, please feel free to contact me at your_email@example.com.
 
 
 
