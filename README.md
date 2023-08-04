@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Exoplanet Classification using Machine Learning
 
-![Exoplanet Image](exoplanet.jpg)
+![Exoplanet Image](images.jpeg)
 
 ## Overview
 
