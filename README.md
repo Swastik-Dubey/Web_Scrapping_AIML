@@ -115,6 +115,7 @@ To use this project, follow these steps:
 ```bash
 git clone https://github.com/your_username/exoplanet-classification.git
 cd exoplanet-classification
+```
 Install the required libraries:
 bash
 Copy code
