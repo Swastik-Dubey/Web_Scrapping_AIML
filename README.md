@@ -24,8 +24,8 @@ pip install requests beautifulsoup4
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/imdb-filmography-web-scraper.git
-cd imdb-filmography-web-scraper
+git clone https://github.com/Swastik-Dubey/Web_Scrapping_AIML.git
+
 ```
 
 2. Make sure you have Python 3.x installed on your system. If not, you can download it from the official website: https://www.python.org/downloads/
@@ -85,6 +85,5 @@ Films done by Leonardo DiCaprio in descending order:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to replace `your-username` in the clone URL with your actual GitHub username before using it in your repository. The provided content covers the project overview, installation steps, usage instructions, example, and important notes for the new users. Additionally, it includes a license section, assuming you are using the MIT License for the project. You can modify the license information according to your preference.
 
 
