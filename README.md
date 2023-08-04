@@ -117,9 +117,10 @@ git clone https://github.com/your_username/exoplanet-classification.git
 cd exoplanet-classification
 ```
 Install the required libraries:
-bash
+```bash
 Copy code
 pip install -r requirements.txt
+```
 Usage
 To train and test the classification models, run the Jupyter notebook Exoplanet_Classification.ipynb. This notebook contains all the code for data preprocessing, feature selection, model training, and evaluation.
 
