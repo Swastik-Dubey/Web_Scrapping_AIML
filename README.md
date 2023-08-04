@@ -1,6 +1,6 @@
 # Web_Scrapping_AIML
 
-#PROBLEM 1
+# PROBLEM 1
 
 # IMDb Filmography Web Scraping
 
@@ -121,31 +121,31 @@ Install the required libraries:
 
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 To train and test the classification models, run the Jupyter notebook Exoplanet_Classification.ipynb. This notebook contains all the code for data preprocessing, feature selection, model training, and evaluation.
 
-##Features
--Data Preprocessing: The dataset is cleaned, and missing values are handled. Outliers are detected and treated accordingly. Features are scaled for better model performance.
+## Features
+- Data Preprocessing: The dataset is cleaned, and missing values are handled. Outliers are detected and treated accordingly. Features are scaled for better model performance.
 
--Feature Selection: Important features are selected using feature importances from various algorithms, and irrelevant features are excluded from the model.
+- Feature Selection: Important features are selected using feature importances from various algorithms, and irrelevant features are excluded from the model.
 
--Model Training: The project uses popular machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosting, SVM, and XGBoost to classify exoplanets.
+- Model Training: The project uses popular machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosting, SVM, and XGBoost to classify exoplanets.
 
--Hyperparameter Tuning: GridSearchCV is utilized to find the best hyperparameters for each algorithm, maximizing their performance.
+- Hyperparameter Tuning: GridSearchCV is utilized to find the best hyperparameters for each algorithm, maximizing their performance.
 
-##Technologies Used
--Python
--Jupyter Notebook
--Scikit-learn
--Pandas
--NumPy
-##Contributing
+## Technologies Used
+- Python
+- Jupyter Notebook
+- Scikit-learn
+- Pandas
+- NumPy
+## Contributing
 Contributions are welcome! If you find any issues or have improvements, feel free to open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 For any questions or inquiries, please feel free to contact me at swastikdubey123@gmail.com.
 
 
